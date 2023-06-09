@@ -118,7 +118,7 @@ There are many mobile users and I will learn to create webpages that cater to th
 
 ## Author
 
-- Website - [John Leomarc Alonzo](https://alonzo0812.github.io/socmed-dashboard/)
+- Website - [John Leomarc Alonzo](https://acelmor.com)
 - Frontend Mentor - [@alonzo0812](https://www.frontendmentor.io/profile/alonzo0812)
 
 
