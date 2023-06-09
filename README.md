@@ -48,26 +48,6 @@ Users should be able to:
 
 ### What I learned
 
-How do I create a simple theme switcher using HTML, CSS, and JS?
-
-Answer: You can add a click event listener to a button, toggle a CSS class on the desired elements using JavaScript, and update the text/content accordingly.
-
-how to amke theme switcher
-make ::root, --primary-color and then use var(--primary-color) to set
-and in JS change the vars in root
-
-
-how to limit number of columns in flex
-Answer: You can use the flex-wrap property with a max-width on the container to limit the number of columns. Set flex-wrap: wrap on the container and adjust the max-width to your desired value.
-
-
-when not wanting background to repeat again
-background-repeat: no-repeat;
-  background-size: cover;
-
-filter: brightness(1.3);
-for if not need opacity
-
 One of my greatest obstacles in solving this challenge is figuring out how to create a theme switcher.
 I resolved the problem by creating a root selector and naming the properties that are supposed to switch in color such as the background color, the top background, the text, and etc.
 ```css
